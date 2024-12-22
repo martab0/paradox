@@ -63,24 +63,21 @@ Fully automated translation in the enterprise is growing fast - confirmed by the
 
 Some examples:
 
-Reddit added sitewide French AI translation and indexed all of their translated content in Google search. Revenue in the last quarter jumped 48%, and unique users grew 37%.
-Coursera launched a massive AI translation project in January 2024, and 4,200 lectures have been translated into 21 languages
+* Reddit added sitewide French AI translation and indexed all of their translated content in Google search. Revenue in the last quarter jumped 48%, and unique users grew 37%.
+* Coursera launched a massive AI translation project in January 2024, and 4,200 lectures have been translated into 21 languages
 Oracle announced a new AI-powered translation feature in drug pharmacovigilance product Argus in October
-Roblox launched AI translation in February 2024 for chat between players, game text, and documentation. Engagement increased, reaching +6% daily time in some markets, and RBX stock jumped 16% on the news.
-In 2023, Canva added Canva Translate for multilingual designs within the app. Today 60% of Canva’s 175+ million active monthly users are international.
+* Roblox launched AI translation in February 2024 for chat between players, game text, and documentation. Engagement increased, reaching +6% daily time in some markets, and RBX stock jumped 16% on the news.
+* In 2023, Canva added Canva Translate for multilingual designs within the app. Today 60% of Canva’s 175+ million active monthly users are international.
 
 The more MT embedded in platforms becomes a familiar habit for the current generation of decision-makers, the less reason for going through a manual process, budget, and human review. Occasional mistranslations and hallucinations nonetheless.
 
-The Consequences
+## The Consequences
+
 There is no stopping automated translation. To evolve and trigger Jevon's Paradox, translation teams must adapt and find a way to convince buyers to maintain a high level of human oversight and to keep investing in more languages.
 
-As things stand,
+As things stand, we will continue seeing segments of the translation market slowly melting away, hitting small businesses and cost-sensitive clients first with their power waning, in-house localization teams will spend less on services and technology, prompting vendors to cater more to marketing and product people entrepreneurs will focus on services other than translation, diversifying into interpreting, content creation, design.
 
-we will continue seeing segments of the translation market slowly melting away, hitting small businesses and cost-sensitive clients first
-with their power waning, in-house localization teams will spend less on services and technology, prompting vendors to cater more to marketing and product people
-entrepreneurs will focus on services other than translation, diversifying into interpreting, content creation, design
-
-I hope upcoming annual research from the industry's think tanks will explore this trend in more detail: identify top LSP translation revenue, see its historical evolution, and provide their forecasts for 2025. For everyone else, the thought of the day: in 2000s, there was room for 2,000+ significant translation agencies and 50,000-100,000 micro-businesses around the world. With technology products, the competition is much more severe, in every category fewer than 10 tools reach prominence and can compete. The world only supports 4-5 big operating systems, 3 Office suites, and a single big search engine, although 1500 smaller ones exist. 
+I hope upcoming annual research from the industry's think tanks will explore this trend in more detail: identify top LSP translation revenue, see its historical evolution, and provide their forecasts for 2025. For everyone else, the thought of the day: in 2000s, there was room for 2000+ significant translation agencies and 50000-100000 micro-businesses around the world. With technology products, the competition is much more severe, in every category fewer than 10 tools reach prominence and can compete. The world only supports 4-5 big operating systems, 3 Office suites, and a single big search engine, although 1500 smaller ones exist. 
 
 How many translation organizations will be needed after the market crystallizes?
 
